@@ -6,7 +6,7 @@
 - [Summary](#summary)
 - [Links](#links)
 - [Summary of Changes](#summary-of-changes)
-- [Extras](#extras)
+- [Catalog Project Details](#catalog-project-details)
 - [References](#references)
 
 ## Summary
@@ -42,4 +42,14 @@ WTForms (2.0.2)
 * created a new catalog grader user roles with limited permissions to database.
 * Deployed the catalog application
 
+## Catalog Project Details
+The catalog project repository and its details can be accessed [here][2]
+
+## References
+- [Udacity][3]
+- [Udacity Forum - P5 How I got Through it][4]
+
 [1]: http://ec2-52-35-80-19.us-west-2.compute.amazonaws.com
+[2]: https://github.com/younessassassi/fullstack-nanodegree-catalog
+[3]: https://www.udacity.com/course/viewer#!/c-nd004/l-3573679011/m-3620328723
+[4]: https://discussions.udacity.com/t/p5-how-i-got-through-it/15342
